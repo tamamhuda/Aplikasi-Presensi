@@ -1,5 +1,4 @@
 # Aplikasi-Presensi
-Anggota Tim :
 
 5200411165-Rizki Fegiyanto
 
