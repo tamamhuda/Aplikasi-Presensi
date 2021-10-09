@@ -1,0 +1,28 @@
+- Analisis Kebutuhan Sistem
+    Program aplikasi presensi siswa online dibuat untuk meningkatkan tingkat kehadiran siswa serta dapat dijadikan bahan evaluasi dan laporan dari guru ke orang tua para
+  dan juga bertujuan untuk mengurangi adanya kecurangan karena program ini dilakukan secara realtime
+
+- Metode Pengumpulan Data
+    1. Observasi
+      Metode ini kami melakukan pengamatan langsung pada proses presensinya
+    2. Wawancara 
+      Metode ini kami mengajukan langsung beberapa pertanyaan kepada para Guru, Wali Murid,dan Siswa-Siswi tentang sistem absensi sebelumnya
+
+- Model Pengembangan Perangkat Lunak
+    Kami menggunakan Metode Waterfall, agar lebih mudah dalam merancang program aplikasinya 
+
+- Halaman Pada Sistem
+  a. Halaman Siswa
+    * Siswa dapat melakukan presensi
+    * Siswa dapat melihat daftar presensi
+  b. Halaman Wali
+    * Wali dapat melihat daftar Presensi
+  c. Halaman Guru
+    * Guru dapat mengelola Presensi Siswa
+    * Guru dapat mengelola daftar Wali
+  d. Halaman Admin 
+    * Admin dapat mengelola Presensi Siswa
+    * Admin dapat mengelola daftar Wali
+    * Admin dapat mengelola daftar Guru
+    * Admin dapat mengelola daftar Kelas
+    * Admin dapat mengelola daftar Pesan
