@@ -18,11 +18,8 @@
   b. Halaman Wali
     * Wali dapat melihat daftar Presensi
   c. Halaman Guru
-    * Guru dapat mengelola Presensi Siswa
+    * Guru dapat mengelola daftar Siswa
     * Guru dapat mengelola daftar Wali
-  d. Halaman Admin 
-    * Admin dapat mengelola Presensi Siswa
-    * Admin dapat mengelola daftar Wali
-    * Admin dapat mengelola daftar Guru
-    * Admin dapat mengelola daftar Kelas
-    * Admin dapat mengelola daftar Pesan
+    * Guru dapat mengelola daftar Pesan
+    * Guru dapat mengelola daftar Presensi
+    
