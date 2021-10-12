@@ -4,19 +4,19 @@ Kami melakukan Maintenance secara berkala, disamping itu dilakukan pula pemeliha
 3. Peningkatan kinerja pada sistem
 
 Ada beberapa Spesifikasi yang dibutuhkan dalam Menjalankan Aplikasi ini yaitu, sebagai berikut :
-Sistem Operasi : Windows XP atau diatasnya 
-Processor 	: Min. Pentium 4 Dual Core 
-RAM 		: 1024 MB / 1 GB 
-Harddisk 		: Mininum 256 GB 
-Monitor 		: LCD 14"Inc
-Keyboard 	: Standard 108 Key 
-Mouse 		: Standard 
-Browser 		: Mozilla Firefox atau Google Chrome 
+- Sistem Operasi : Windows XP atau diatasnya 
+- Processor 	: Min. Pentium 4 Dual Core 
+- RAM 		    : 1024 MB / 1 GB 
+- Harddisk 		: Mininum 256 GB 
+- Monitor 		: LCD 14"Inc
+- Keyboard 	  : Standard 108 Key 
+- Mouse 		  : Standard 
+- Browser 		: Mozilla Firefox atau Google Chrome 
 
-Kebutuhan Server :
-Bahasa Server side	: PHP 
-Bahasa Markup	: HTML 
-Bahasa Style Sheet	: CSS 
-Bahasa Script		: Java Script 
-Web Server 		: Apache 2.X 
-Database Server 	: MySQL Server
+- Kebutuhan Server    :
+- Bahasa Server side	: PHP 
+- Bahasa Markup	      : HTML 
+- Bahasa Style Sheet	: CSS 
+- Bahasa Script		    : Java Script 
+- Web Server 		      : Apache 2.X 
+- Database Server 	  : MySQL Server
